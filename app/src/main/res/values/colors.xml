@@ -3,4 +3,8 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="connAppDark">#2196F3</color>
+    <color name="connAppLight">#E3F2FD</color>
+
 </resources>
