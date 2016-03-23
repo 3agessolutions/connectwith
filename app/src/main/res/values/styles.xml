@@ -22,5 +22,4 @@
         <item name="android:colorBackground">@color/connAppLight</item>
         <item name="android:textColor">@color/connAppDark</item>
     </style>
-
 </resources>
